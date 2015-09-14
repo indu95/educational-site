@@ -16,6 +16,7 @@ Rules for making website:
 - Please do not change the file stuture or remove core markup that was added already.
 - All text should remain text. 
 - Please use classes for column sections. For example say I wanted to add a new section called "Upcoming Events2" the styling would carry over. 
+- Please create the website in a way where we would be able to add/remove/edit things easily.
 
 Requirements
 - Please use Firefox to avoid cross-domain issues with template. 
