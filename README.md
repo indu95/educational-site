@@ -20,6 +20,6 @@ Rules for making website:
 
 Requirements
 - Please use Firefox to avoid cross-domain issues with template. 
-- When opening the index file you should see "Header - Area, ontent - Area,Footer - Area".
+- When opening the index file you should see "Header - Area, Content - Area, Footer - Area".
 
 Good luck and if you have any questions please feel to contact us. 
