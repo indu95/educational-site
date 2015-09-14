@@ -6,8 +6,8 @@ Please complete the following test project. You will find the test site PSD loca
 
 For example:
 
--Everything above the "Princpal's Message" should be placed in the header.html file.
--Everything underneath the column area should go into the footer.
+- Everything above the "Princpal's Message" should be placed in the header.html file.
+- Everything underneath the column area should go into the footer.
 
 All of the fonts needed for this project are google fonts. You will be able to imbed the fonts using the google font API. 
 
