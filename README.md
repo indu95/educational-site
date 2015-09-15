@@ -17,6 +17,11 @@ Rules for making website:
 - All text should remain text. 
 - Please use classes for column sections. For example say I wanted to add a new section called "Upcoming Events2" the styling would carry over. 
 - Please create the website in a way where we would be able to add/remove/edit things easily.
+- Please make all logos seperate layers. Which means the School name should be one layer and the background of the header a seperate layer. 
+- Source format all code.
+- No Inline styles
+- No IMG tags.
+
 
 Requirements
 - Please use Firefox to avoid cross-domain issues with template. 
