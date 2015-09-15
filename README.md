@@ -1,4 +1,4 @@
-# website_template
+# Website Template
 
 *Test Project*
 
