@@ -3,10 +3,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 .header-banner{
-   
+    background:#0080C9;
     font-size: 18px;
     color: black;
-    background-color: #0080C9;
+    background-repeat: no-repeat;
 }
 
 .white-heading-big{
@@ -54,7 +54,7 @@
 }
 .pic-bg{
     min-height: 465px;
-    background-image: url("images/UP_homepage-01.JPEG");
+    background-image: url("images/UP_homepage-01.png");
     width: 100%;
     background-repeat:no-repeat;
     background-size: cover;
@@ -242,3 +242,123 @@ hr {
     position: absolute;
     margin-left: 45%;
   }
+  .custom-anchor{
+      color: black;
+  }
+  .fb-img{
+    background-image: url("images/facebook.png");
+    width: 32px;
+    min-height: 32px;
+    position: absolute;
+  }
+  .twitter-img{
+    background-image: url("images/twitter.png");
+    width: 32px;
+    min-height: 32px;
+    position: absolute;
+    margin-left: 44px;
+  }
+  .linkedin-img{
+    background-image: url("images/linkedin.png");
+    width: 32px;
+    min-height: 32px;
+    position: absolute;
+    margin-left: 86px;
+  }.media-icons{
+      position: absolute;
+      margin-top: -28px;
+      margin-left: 164px;
+  }.logo{
+      background-image: url("images/logo-big.png");
+    position: absolute;
+    min-width: 159px;
+    min-height: 158px;
+    background-repeat: no-repeat;
+    margin-top: -136px;
+    margin-left: 147px;
+    z-index: 99999;
+  }
+  .bgclr {
+
+    text-decoration: none !important;
+    background-color: transparent !important;
+
+}
+.evt-img{
+    background-image: url("images/calender.png");
+
+    position: absolute;
+    min-width: 34px;
+    min-height: 35px;
+    margin-left: -33px;
+    margin-top: 3px;
+}
+.bg-light-img{background-image: url("images/dim.png");
+    position: absolute;
+    min-width: 398px;
+    min-height: 205px;
+    margin-left: 52%;
+    margin-top: -203px;
+    z-index: 555;
+}
+.news-img{
+    background-image: url("images/news.png");
+
+    position: absolute;
+    min-width: 37px;
+    min-height: 31px;
+    margin-left: -33px;
+    margin-top: 3px;
+}
+.yellow-arrow{
+    background-image: url("images/right-arrow.png");
+    position: absolute;
+    min-width: 30px;
+    min-height: 30px;
+    margin-left: 118px;
+    margin-top: -21px;
+}
+.task-img{
+    background-image: url("images/tasks.png");
+    position: absolute;
+    min-width: 117px;
+    min-height: 78px !important;
+    background-repeat: no-repeat;
+}
+.logo-small{
+   background-image: url("images/logo-small.png");
+    position: absolute;
+    min-width: 91px;
+    min-height: 91px;
+    background-repeat: no-repeat;
+    margin-left: -103px;
+    margin-top: 5px;
+}
+.yellow-ar{
+    background-image: url("images/yellow-arrow.png");
+    position: absolute;
+    min-width: 215px;
+    min-height: 69px;
+    background-repeat: no-repeat;
+    margin-left: 33%;
+    margin-top: 16px;
+}
+.yellow-ar2{
+    background-image: url("images/yellow-arrow.png");
+    position: absolute;
+    min-width: 215px;
+    min-height: 69px;
+    background-repeat: no-repeat;
+    margin-left: 22%;
+    margin-top: 2px;
+
+
+}
+.small-hr2{
+    border:none;
+    border-top:1px solid rgb(195, 228, 241) !important;
+    color:#fff;
+    background-color:#fff;
+    width:100%;
+    margin-top: 2px !important;
+}
